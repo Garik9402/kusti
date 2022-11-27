@@ -1,0 +1,13 @@
+@import '/varebles/var.css';
+@import '/components/reset.css';
+
+.header {
+   width: 100%;
+   height: 30px;
+   background-color: var(--background);
+}
+
+.title {
+   color: var(--color);
+
+}

@@ -1,0 +1,42 @@
+{
+   "workbench.startupEditor": "none",
+   "workbench.colorTheme": "Space Ocean Kit Refined",
+   "files.autoSave": "onFocusChange",
+   "window.zoomLevel": 1,
+   "editor.tabSize": 3,
+   "editor.detectIndentation": false,
+   "editor.hover.enabled": false,
+   "editor.mouseWheelZoom": true,
+   "editor.formatOnSave": true,
+   "[scss]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+   },
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   },
+   "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+   },
+   "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+   },
+   "editor.guides.bracketPairs": true,
+   "ecsstractor_port.add_comment": false,
+   "debug.console.historySuggestions": false,
+   "prettier.bracketSpacing": false,
+   "emmet.includeLanguages": {
+      "{\"vue-html\": \"html\", \"javascript\": \"javascriptreact\"}": ""
+   },
+   "emmet.triggerExpansionOnTab": true,
+   "ecsstractor_port.comment_style": "css",
+   "liveSassCompile.settings.generateMap": false,
+   "liveSassCompile.settings.formats": [
+      {
+         "format": "expanded",
+         "extensionName": ".css",
+         "autoprefix": "Last 5 versions",
+         "savePath": "css"
+      }
+   ],
+   "html.format.wrapLineLength": 200
+}

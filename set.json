@@ -40,3 +40,20 @@
    ],
    "html.format.wrapLineLength": 200
 }
+/// снипеты для html
+{
+   "nav": {
+      "scope": "html",
+      "prefix": "list",
+      "body": [
+         "<nav class=\"nav\">",
+         "<ul class=\"nav__list\">",
+         "<li class=\"nav__list-item\">",
+         "<a href =\"#\" class=\"nav__item-link\"></a>",
+         "</li>",
+         "</ul>",
+         "</nav>"
+      ],
+      "description": "nav list"
+   },
+}
